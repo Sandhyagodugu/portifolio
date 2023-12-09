@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="navbar-left">
+           
+        </div>
+        <div class="navbar-right">
+            <a class="a-element">Home</a>
+            <a class="a-element">About</a>
+            <a class="a-element" href="#services">Services</a>
+            <a class="a-element">Contact</a>
+        </div>
+    </div>
+    <div class="home">
+        <div class="home-left">
+            <h1 class="home-h1">Tulasi</h1>
+            <p class="home-p">Hello, I'm Tulasi from guru nanak institute of technology from hyderabad.</p>
+        </div>
+        <div class="home-right">
+            
+        </div>
+    </div>
+    <div class="services" id="services">
+        <h1 class="ser-h1">SERVICES WE OFFER</h1>
+        <div class="services-sub-cont">
+            <div class="services-card">
+                <h1 class="sc-h1">Web Designing</h1>
+                <p class="sc-p">I am creating web design website.</p>
+            </div>
+            <div class="services-card">
+                <h1 class="sc-h1">Video Editing</h1>
+                <p class="sc-p">I am creating vedio edit website.</p>
+            </div>
+            <div class="services-card">
+                <h1 class="sc-h1">Photoshop</h1>
+                <p class="sc-p">I am creating photoshop editwebsite </p>
+            </div>
+        </div>
+    </div>
+    <div class="services">
+        <h1 class="ser-h1">TESTIMONIALS</h1>
+        <div class="services-sub-cont">
+            <div class="services-card">
+                <h1 class="sc-h1">Google</h1>
+                <img src="https://static-00.iconduck.com/assets.00/google-icon-2048x2048-czn3g8x8.png" class="test-logo">
+                <p class="sc-p">Nihar manchi manchi websites naaku design chesichadu. Pani twaraga chesthadu.</p>
+            </div>
+            <div class="services-card">
+                <h1 class="sc-h1">Facebook</h1>
+                <img src="https://static-00.iconduck.com/assets.00/facebook-icon-2048x2048-pth4zu2i.png" class="test-logo">
+                <p class="sc-p">Nenu manchi manchi Videos ni edit chestha interest unte nanni sampradinchandi.</p>
+            </div>
+            <div class="services-card">
+                <h1 class="sc-h1">Instagram</h1>
+                <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" class="test-logo">
+                <p class="sc-p">Nenu manchi manchi photolani edit chestha interest unte nanni sampradinchandi.</p>
+            </div>
+        </div>
+    </div>
+    <div class="contact">
+        <h1 class="ser-h1">CONTACT US</h1>
+        <div class="contact-info">
+            <p>Aleti Manisha</p>
+            <p>+91 9951458675</p>
+            <p>aletimanisha14@gmail.com</p>
+        </div>
+        <div class="social-icons">
+            <div class="social-icon">
+                <a href="https://www.instagram.com/niihaaarrrr/">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" class="social-icon-img">
+                </a>
+                <a href="https://www.youtube.com/@niharrdg">
+                    <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" class="social-icon-img">
+                </a>
+                <a href="https://www.linkedin.com/in/niharrdg">
+                    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" class="social-icon-img">
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
